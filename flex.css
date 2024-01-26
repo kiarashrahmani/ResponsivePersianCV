@@ -1,0 +1,85 @@
+
+@font-face {
+    font-family: 'vazir';
+    font-style: normal;
+    src: url("fonts/Vazir-Regular.eot");
+    src: url("fonts/Vazir-Regular.woff") format("woff"),
+        url("fonts/Vazir-Regular.ttf") format("ttf"),
+        url("fonts/Vazir-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: 'IranNastaliq';
+    src: url('fonts/IranNastaliq.eot');
+    src: url('fonts/IranNastaliq.eot?#iefix') format('embedded-opentype'),
+        url('fonts/IranNastaliq.woff2') format('woff2'),
+        url('fonts/IranNastaliq.woff') format('woff'),
+        url('fonts/IranNastaliq.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+*{
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    flex-wrap: wrap;
+    border: 5px solid blue;
+    border-radius: 10px;
+
+}
+.div1{
+  flex: 33%;
+  height: auto;
+}
+.div2 {
+    flex: 33%;
+    height: auto;
+    margin-top: 60px;
+}
+.div3 {
+    flex: 33%;
+    height: auto;
+}
+.images{
+        display: block;
+        margin-left: 5px;
+        margin-right: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border-radius: 10%;
+        border: 1px solid gray;
+        max-width: 225px;
+    
+
+}
+#name{
+    font-family:vazir;
+    margin: 20px;
+}
+#email{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 20px;
+}
+p{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 20px;
+
+}
+
+#persian_text{
+    font-family: vazir;
+    margin: 20px;
+}
+.titles{
+    color: gray;
+}
