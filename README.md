@@ -26,8 +26,7 @@
 
 <h2>Screenshots</h2>
 
-<p>Include screenshots or images here if applicable.</p>
-
+<img alt="imageofsite" src="images/screenshot.JPG"></img>
 <h2>Usage</h2>
 
 <ol>
@@ -44,7 +43,7 @@
 
 <h2>Author</h2>
 
-<p>Kiarash Rahmani - <a href="mailto:kiarashrahmani@znu.ac.ir">kiarashrahmani@znu.ac.ir</a></p>
+<p>Kiarash Rahmani - <a href="https://github.com/kiarashrahmani">kiarashrahmani</a></p>
 
 </body>
 
