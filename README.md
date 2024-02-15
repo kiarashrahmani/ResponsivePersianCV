@@ -32,7 +32,7 @@
 <ol>
     <li>Clone the repository:</li>
 
- git clone https://github.com/your-username/ResponsivePersianCV.git
+ git clone https://github.com/kiarashrahmani/ResponsivePersianCV.git
 
 <li>Open the `index.html` file in your browser to view the personal profile.</li>
 </ol>
